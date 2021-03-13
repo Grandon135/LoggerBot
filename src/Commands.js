@@ -1,6 +1,6 @@
 const Commands = {
   dispatch = (msg) => {
-
+    if(msg.contents)
   }
 };
 
