@@ -12,5 +12,5 @@ Message -> JSON API -> database -> Frontend.
 
 ### Top priority
 
-[x] Sent, Editted, and Deleted. 
-[x] Send Attachments to the attachment Channel 
+* [x] Sent, Editted, and Deleted. 
+* [x] Send Attachments to the attachment Channel 
